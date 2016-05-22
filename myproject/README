@@ -1,0 +1,16 @@
+A template project for J2 on Mimas v2 board
+
+This template is based on Aboriginal Linux (http://landley.net/aboriginal/), and J2 Open processor (http://j-core.org/).
+
+How to use:
+1. prepar project files.
+
+   $ make prepare
+
+2. write your embedded "myapp" in src/
+
+3. make all.
+
+   $ make
+
+4. a runnable vmlinux on the board with your "myapp" is there.

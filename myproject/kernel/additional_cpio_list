@@ -1,0 +1,2 @@
+nod /dev/console 644 0 0 c 5 1
+slink /init /sbin/init.sh 755 0 0

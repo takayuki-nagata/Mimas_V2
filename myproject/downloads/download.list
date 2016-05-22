@@ -1,0 +1,7 @@
+http://landley.net/aboriginal/downloads/binaries/cross-compiler-sh2eb.tar.gz
+https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.3.tar.gz
+http://landley.net/aboriginal/downloads/binaries/root-filesystem/root-filesystem-sh2eb.tar.gz
+https://raw.githubusercontent.com/landley/aboriginal/master/sources/patches/linux-jcore.patch
+https://raw.githubusercontent.com/landley/aboriginal/master/sources/patches/linux-fixsh4.patch
+https://raw.githubusercontent.com/landley/aboriginal/master/sources/patches/linux-deeplystupid.patch
+https://raw.githubusercontent.com/landley/aboriginal/master/sources/patches/linux-fixuClibc.patch
